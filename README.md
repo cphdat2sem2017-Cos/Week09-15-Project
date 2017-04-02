@@ -2,6 +2,9 @@
 This repo will contain material from the projekt period.
 
 ## Review plans
+Timetable for the review friday 7. is in the PDF document; **Timetable for SCRUM meeting 7 april**  
+Please be on time
+
 
 ## Lecture days
 
