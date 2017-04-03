@@ -9,6 +9,7 @@ Please be on time
 
 
 ## Lecture days
+- Wednesday the 5th from 9-12 in room 1.60 there will be special session with one of the tutors on JSP/Servlet in room 1.60.
 
 ## [Formal requirements for the project](Project Assignment Part 1 spring 2017.md)
 Hand-in of the project is a prerequisite for attending the exam. There is a seperate repo for exam info
