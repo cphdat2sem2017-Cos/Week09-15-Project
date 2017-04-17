@@ -11,11 +11,23 @@ There are a few sections which can be skipped:
 - Section 5 "Additional topics" can be skipped
 
 ### Main leaning objectives are:
-* unit testing
-* test design
-* blackbox test
-* whitebox test
-* test coverage
+* test levels 
+* automated unit testing
+* test design with black-box + white-box test techniques
+* test coverage tool
+
+### Plan:
+1. Designing for test ([slides](TestSlides.pdf))
+1. Test Discussion
+3. Demo - [coding bats](http://codingbat.com/prob/p192082) are really unit tests
+4. Exercise: Transform [codingbat](http://codingbat.com/prob/p136351) into JUnit
+5. Demo - making tests for an existing code base (sorting from week 5)
+6. Exercise: Make a test for quicksort
+7. Aspects of test ([slides](TestSlides.pdf))
+	- Testing concept: Black-box and White-box testing
+	- Testing concept: Test coverage
+8. Exercise: Install [codecoverage in jacocoverage](Codecoverage in Netbeans.md) and check coverage of your test for quicksort.
+
 
 
 ## Tuesday April 19
