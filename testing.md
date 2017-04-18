@@ -1,5 +1,5 @@
 # Testing
-## Monday April 18
+## Tuesday April 18
 
 As preparation for Monday, you should view the following on Lynda:
 <https://www.lynda.com/Developer-Programming-Foundations-tutorials/Welcome/124398/137955-4.html>. 
@@ -30,7 +30,7 @@ There are a few sections which can be skipped:
 
 
 
-## Tuesday April 19
+## Wednesday April 19
 Mostly it is not recommended to test the actual database layer. 
 However, that is a shame as many get the database layer wrong. Once the structure is in place, it is fairly straight forward to do.
 
