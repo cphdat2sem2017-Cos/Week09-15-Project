@@ -168,7 +168,7 @@ Date: Monday May 29th 2017 at 16:00 using Wiseflow.
 
 # Hand-in part 2
 
-Date: Thursday April 27th 2017 at 23.59 using Wiseflow.
+Date: Sunday April 30th 2017 at 23.59 using Wiseflow.
 
 # Assessment criteria
 
