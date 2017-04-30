@@ -1,9 +1,6 @@
 # Week09-15-Project
 This repo will contain material from the projekt period.
 
-# Notice - On Tuesday and Wednesday COS and A class will read together. Tine Marbjerg will be the teacher. COS class has been booked to attend in the same room as A, but all might have to go to a different room with more space. 
----
-
 
 We will meet Monday April 3rd where we will talk about the [formal requirements for the project](Project Assignment Part 1 spring 2017.md), as well as the [exam questions](https://github.com/cphdat2sem2017-Cos/Week16-17-Exam/blob/master/COS%20-%20First%20Year%20Exam%20June%202017%20-%20Exam%20questions.pdf). 
 
