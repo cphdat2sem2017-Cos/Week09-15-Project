@@ -113,3 +113,7 @@ Which produces this html page:
 
 
 I suggest you focus on the diagrams which is part of the curriculum, namely class diagrams, sequence diagrams and activity diagrams.
+
+## [Example project](https://github.com/kaspercphbusiness/2semWebbuildingsWithTest)
+This example contains most of the ideas shown above. It also have many aspects of the overall architecture issues which we discuss at 2nd semester.
+
