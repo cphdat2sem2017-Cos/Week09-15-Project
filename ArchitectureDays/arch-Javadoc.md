@@ -1,6 +1,8 @@
 # Documentation in Javadoc
 One part of documentation is _internal_ documentation. Internal documentation is documentation which is written inside the program itself.
 
+- See the [supplementary note on how to use JavaDoc in Netbeans](arch-JavadocNetbeans.md) 
+
 Java was one of the first programming languages to come with a tool which can extract information in source comments and produce HTML based documentation from those comments.
 
 Javadoc allow you to write comments associated with:
