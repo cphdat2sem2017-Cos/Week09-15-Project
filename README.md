@@ -2,7 +2,16 @@
 This repo will contain material from the projekt period.
 
 
-We will meet Monday April 3rd where we will talk about the [formal requirements for the project](Project Assignment Part 1 spring 2017.md), as well as the [exam questions](https://github.com/cphdat2sem2017-Cos/Week16-17-Exam/blob/master/COS%20-%20First%20Year%20Exam%20June%202017%20-%20Exam%20questions.pdf). 
+We will meet Monday April 3rd where we will talk about the [formal requirements for the project](Project Assignment Part 1 spring 2017.md), as well as the [exam questions](https://github.com/cphdat2sem2017-Cos/Week16-17-Exam/blob/master/COS%20-%20First%20Year%20Exam%20June%202017%20-%20Exam%20questions.pdf).
+
+## Technical review Thursday May 11th.
+On the technical review Thursday I will in particular look at:
+
+- Architecture and some Refactoring's
+- Documentation
+- Exception handling 
+
+There is a [timeplan for the reviews](https://github.com/cphdat2sem2017-Cos/Week09-15-Project/blob/master/Timetable%20for%20technical%20review%2011.%20May.pdf). We are mostly in room 2.62, but group C3 is meeting with Alpha solutions in room 2.03.
 
 ## Error handling and Refactoring (May 8th & 9th)
 On May 8th, 12:30 in room 2.62 we will go over [Error handling and how to handle this in a larger project](ErrorAndRefactoring/Errorhandling.md)
