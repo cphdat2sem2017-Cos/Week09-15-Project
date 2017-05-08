@@ -5,6 +5,8 @@
 
 READ [This turial here](https://www.tutorialspoint.com/java/java_exceptions.htm)
 
+[Notes from class](Note8Maj2017.pdf)
+
 ## What are errors in our java code?
 Errors in code i when the code produces erroneous results.  
 - 2 + 2 = 5  
