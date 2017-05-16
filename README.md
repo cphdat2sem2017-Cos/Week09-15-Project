@@ -22,7 +22,8 @@ There will be set aside time in these two days to discuss how to use these aspec
 
 ## [Architecture days (May 2nd and 3rd)](arch-readme.md/arch-readme.md)
 
-
+## IntegrationTest 
+Kasper showed some project that had integration test. This is a [link to the project](https://github.com/kaspercphbusiness/2semWebbuildingsWithTest)
 
 ## Review plans
 - Timetable for tech review Thursday is in **Timetable for technical review 6. april.pdf**. Please note the that we had to move most groups up until the afternoon to let it be possible for Tobias to do review on both A and COS classes. 
